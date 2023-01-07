@@ -1,0 +1,200 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+
+.banner {
+    /* margin: 0 200px; */
+    height: 100vh;
+    width: 100vw;
+    /* padding: 220px 885px; */
+    /* display: flex; */
+    background-image: url(../images/banner/banner2.png);
+    background-size: cover;
+    /* background-size: 100%; */
+    padding-right: 30px;
+
+}
+
+.banner img {
+    width: 100%;
+
+}
+
+.banner-title {
+
+    padding-top: 300px;
+    text-align: right;
+    align-items: right;
+    margin-right: 230px;
+    font-family: 'Open Sans', sans-serif;
+    /* width: 700px; */
+    /* max-width: 100%; */
+    /* padding: 0 220px; */
+
+}
+
+.banner-title-1 {
+    padding-top: 300px;
+    text-align: right;
+    align-items: right;
+    margin-right: 230px;
+}
+
+.banner-discreption {
+    /* padding: 0 150px; */
+    text-align: right;
+    margin-right: 230px;
+    margin-top: 30px;
+    color: #444343;
+}
+
+.btn {
+    text-align: right;
+    background-color: #FD6E0A;
+    padding: 15px;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.btn-primary {
+    display: flex;
+    justify-content: end;
+    margin-right: 230px;
+    margin-top: 10px;
+
+}
+.plans h1{
+    font-family: 'Open Sans', sans-serif;
+}
+.person-title {
+    text-align: right;
+    align-items: right;
+    margin-right: 180px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.person-discreption {
+    margin-top: 20px;
+    text-align: right;
+    align-items: right;
+    font-weight: 400;
+    font-size: 16px;
+    width: 416px;
+    height: 104px;
+    color: #444343;
+}
+
+.person-img-container {
+    height: 50%;
+    width: 50%;
+}
+
+.person-img-container img {
+    height: 100%;
+    width: 100%;
+}
+
+.person-txt {
+
+    /* padding: 220px;
+    margin: 0; */
+}
+
+.person {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.person-list {
+
+    /* text-align: center; */
+    /* align-items: center; */
+    color: #444343;
+    margin-left: 50px;
+}
+
+.plans {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.plans-part {
+    display: flex;
+    padding-left: 300px;
+}
+
+.plans-img {
+    margin: 30px;
+}
+
+.plans-img .web-dep {
+    color: #737272;
+}
+
+.gradient-img .gradient-title {
+    width: 459px;
+    color: #FFFFFF;
+    margin-right: 50px;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    left: 300px;
+    
+}
+
+.call-btn {
+    background-color: white;
+    color: #FD6E0A;
+    border: none;
+    border-radius: 5px;
+    width: 90px;
+    height: 40px;
+}
+
+.gradient {
+    /* background-image: url("../images/watch.png"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1140px;
+    height: 300px;
+    /* padding: 230px 230px; */
+    margin-left: 230px;
+    margin-right: 230px;
+    background: linear-gradient(90deg, rgb(251, 145, 7) 0%, rgba(230, 227, 233, 0.272) 29%, rgb(223, 218, 211) 54%, rgba(56,38,152,0.2637429971988795) 73%) , url('../images/watch.png');
+    
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+}
+.future-txt h3{
+   
+    text-align: left;
+    margin-right: 340px;
+    margin-left: 160px;
+    color: white;
+    padding-top: 80px;
+    font-family: 'Open Sans', sans-serif;
+}
+.future{
+    background-color: black;
+    width: 100wh;
+height: 100vh;
+background-size: cover;
+margin-top: 90px;
+}
+.future-discreption{
+    color: white;
+    text-align: left;
+    margin-left: 160px;
+    margin-top: 30px;
+    font-style: normal;
+}
+.subscribe-title h2{
+    color: white;
+}
